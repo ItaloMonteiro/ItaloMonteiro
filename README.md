@@ -1,10 +1,14 @@
 ### Olá! Eu sou Italo Monteiro 👋
 
-- 🔭 Java
-- 🌱 HTML
-- 👯 CSS
-- 🤔 JavaScript
-- 💬 MySQL
+##
+
+- 📕 Java
+- 📒 HTML
+- 📘 CSS
+- 📙 JavaScript
+- 📖 MySQL
+
+##
 
 <div align="center">
   <a href="https://github.com/ItaloMonteiro">
